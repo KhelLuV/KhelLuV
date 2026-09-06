@@ -28,13 +28,7 @@ Here are some ideas to get you started:
 ![](https://streak-stats.demolab.com/?user=KhelLuV&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KhelLuV&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KhelLuV&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KhelLuV&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
