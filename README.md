@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-📖 My Program: Bachelor of Industrial Technology Major in Computer Technology<br>🌱 I’m currently learning HTML, CSS and JavaScript<br>⚡ Hobbies: Online Games, Music, Tech
+📖 My Program: Bachelor of Industrial Technology Major in Computer Technology (Downgraded BS Computer Engineering) <br>🌱 I’m currently learning HTML, CSS and JavaScript<br>⚡ Hobbies: Online Games, Music, Tech
 
 
 ## 🌐 Socials:
